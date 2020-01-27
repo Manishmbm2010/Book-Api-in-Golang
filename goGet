@@ -1,0 +1,4 @@
+go get github.com/lib/pq
+go get github.com/subosito/gotenv
+go get github.com/gorilla/mux
+
